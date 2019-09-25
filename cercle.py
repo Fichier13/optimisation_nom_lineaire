@@ -13,7 +13,7 @@ fig = plt.figure(figsize=(8,8))
 fig, ax = plt.subplots(1)
 
 
-N=10
+N=150
 T=[]
 def cercle(a,b,R):
     for k in range(N+1):
